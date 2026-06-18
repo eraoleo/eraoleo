@@ -14,6 +14,9 @@
 
 </div>
 
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFuZ2t4bWgwNTN5Zzl6MDB4d2VzdXkzZGx3NDVoYjkzaHVlMmt5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" height="200px">
+
 ##
 
 <div align="center"><br>
@@ -27,4 +30,4 @@
   <img src="https://github.com/eraoleo/eraoleo/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFuZ2t4bWgwNTN5Zzl6MDB4d2VzdXkzZGx3NDVoYjkzaHVlMmt5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" height="200px">
+
